@@ -1,0 +1,24 @@
+body {
+    padding-top: 4.5rem;
+  }
+  
+.alert-pre {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
+.input_links {
+  background: rgba(255,255,255,0.4);
+  border: none;
+  outline: none;
+  width: 80%;
+  height: 30p;
+  margin: 0 auto;
+  padding: 10px;
+  color: #333;
+  -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0);
+  box-shadow: 0 2px 10px 1px rgba(0,0,0,0);
+}
+
+.button5 {border-radius: 50%;}
